@@ -31,8 +31,7 @@
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anshhgottacode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshhgottacode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://img.shields.io/github/followers/anshhgottacode?label=Followers&style=for-the-badge&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/anshhgottacode?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/repo-size/anshhgottacode/flexIt?label=flexIt%20size&style=for-the-badge" alt="flexIt repo size">
 </p>
-
-<p align="center"><sub>Thanks for stopping by ✨</sub></p>
