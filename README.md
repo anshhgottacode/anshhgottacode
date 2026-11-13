@@ -9,7 +9,6 @@
 ---
 
 ### 🚀 About me
-- 🔭 Currently working on **flexIt**
 - 🌱 Currently learning **Backend development with Spring Boot**
 - 💬 Ask me about **Bugs 🐛**
 
@@ -26,8 +25,7 @@
 ### 📌 Featured projects
 | Project | What it does |
 |---|---|
-| [**flexIt**](https://github.com/anshhgottacode/flexIt) | Connects to your GitHub and turns your projects into short, shareable videos you can use to present your work |
-| [**CareerGrid**](https://github.com/anshhgottacode/CareerGrid) | A job tracker that keeps all your applications in one place and lets you update them whenever you're ready |
+| [**Change Detection Application**](https://github.com/anshhgottacode/change-detection-app) | A web-based image change detection tool that compares two images using pixel-wise difference and SSIM algorithms to identify and visualize changes, with an interactive interface and FastAPI backend. |
 
 ### 📊 GitHub stats
 <p align="center">
